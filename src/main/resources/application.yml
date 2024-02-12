@@ -10,3 +10,6 @@ spring:
     url: jdbc:mysql://localhost:3308/test?serverTimeZone=UTC&characterEncoding=UTF-8
     username: root
     password: 1111
+
+jwt:
+  secret: secretkey
